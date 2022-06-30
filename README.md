@@ -1,1 +1,2 @@
 # odin-landing-page
+This project is to create the landing page of a website using HTML and CSS. By the end of this project, I will have demonstrated skills in using HTML to put content on a webpage, and using CSS to make that webpage look good.
